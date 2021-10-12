@@ -7,7 +7,7 @@
 Use the node package manager to install @badcj/colours.
 
 ```bash
-npm install @badcj/colours
+npm install @badcj/emailexists
 ```
 
 ## Usage
