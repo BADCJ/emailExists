@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/BADCJ/emailExists.git"
   },
+  "keywords": [
+    "email-validate",
+    "regex",
+    "regex-validate",
+    "email-exists"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
